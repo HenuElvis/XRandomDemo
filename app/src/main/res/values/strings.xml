@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">XRandomDemo</string>
+
+    <!-- xrandom -->
+    <string name="xrandom_stopping">Stopping…</string>
+    <string name="xrandom_cancel_confirm">Stop generating?</string>
+    <string name="xrandom_no_source">No entropy source available.</string>
+    <string name="xrandom_generating_failed">Generating failed</string>
+    <string name="urandom_not_exists">Your device can\'t provide enough secured randomness.</string>
+    <string name="xrandom_uncheck_warn">XRandom increases randomness.\nSure to disable?</string>
+    <string name="xrandom_final_confirm">You have generated %d private keys from XRandom.</string>
+    <string name="generating_private_key_final_confirm">You have generated %d private keys.</string>
+    <string name="xrandom_info_detail">XRandom gathers data from sources to improve randomness.\n\nThe sources are sensors on your device like camera, microphone, magnetic sensor, gravity sensor, etc.</string>
+    <string name="xrandom_info_guide">\n\nShaking or rotating your device and make some noise while gathering can improve randomness.</string>
+    <string name="xrandom_instruction_auto_show_check">Don\'t show next time</string>
+
+    <!-- password strength -->
+    <string name="password_strength_weak">Weak</string>
+    <string name="password_strength_normal">Normal</string>
+    <string name="password_strength_medium">Medium</string>
+    <string name="password_strength_strong">Strong</string>
+    <string name="password_strength_very_strong">Very Strong</string>
+    <string name="password_strength_warning">Sure to use %s strength password?</string>
+    <string name="password_strength_check">Password Strength Check</string>
+    <string name="password_strength_check_on">On</string>
+    <string name="password_strength_check_off">Off</string>
+    <string name="password_strength_check_off_warn">Sure to turn off password strength check?</string>
+    <string name="add_address_generate_address_password_lengh_note">长度: 6&#8211;43</string>
+
+    <string name="add_address_generate_address_password_confirm_hint">确认密码</string>
+    <string name="add_address_generate_address_password_hint">密码</string>
+    <string name="OK">确认</string>
+    <string name="cancel">取消</string>
+    <string name="password_checking">正在检查密码</string>
+    <string name="add_address_generate_address_password_not_same">两次输入的密码不符</string>
+    <string name="add_address_generate_address_password_label">请输入钱包密码</string>
+</resources>

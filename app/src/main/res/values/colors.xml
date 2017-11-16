@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- scanner -->
+    <color name="scan_mask">#60000000</color>
+    <color name="scan_laser">#cc0000</color>
+    <color name="scan_dot">#ff6600</color>
+    <color name="scan_result_view">#b0000000</color>
+    <color name="scan_result_dots">#c099cc00</color>
+
+
+    <color name="transparent">#00000000</color>
+
+
+    <!-- password strength -->
+    <color name="password_strength_bar_bg">#33ffffff</color>
+    <color name="password_strength_weak">#ee5f5b</color>
+    <color name="password_strength_normal">#ee5f5b</color>
+    <color name="password_strength_medium">#ffa321</color>
+    <color name="password_strength_strong">#62c462</color>
+    <color name="password_strength_very_strong">#62c462</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="red">#ffbd362f</color>
+
+    <integer name="password_length_max">43</integer> <!-- 43 x [0..9 a..z A..Z] > 2^256  -->
+</resources>
